@@ -17,14 +17,6 @@ Bu proje, dört işlem yapabilen basit bir web tabanlı uygulamadır.
 ## 📷 Önizleme
 ![Calculator Screenshot](screenshot.png)
 
-## 📂 Proje Yapısı
-calculator-project
-┣ 📄 index.html
-┣ 📄 style.css
-┣ 📄 script.js
-┗ 📄 README.md
-
-
 ## 💻 Kullanım
 1. Bu projeyi klonla:
    ```bash
