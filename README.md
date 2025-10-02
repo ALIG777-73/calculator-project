@@ -31,6 +31,7 @@ calculator-project
    git clone https://github.com/kullaniciadi/calculator-project.git
 
 2. Klasöre gir:
+   ```bash
     cd calculator-project
 
 3. index.html dosyasını tarayıcıda aç
